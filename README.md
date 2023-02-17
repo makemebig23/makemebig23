@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hello , I'm Aryan Porwal 
+### I'm Aryan Porwal 
 
 ### A Full Stack Java Developer with relevant experience of working with various technologies and building dynamic web applications.
 
